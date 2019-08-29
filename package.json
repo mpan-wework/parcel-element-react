@@ -1,0 +1,35 @@
+{
+  "name": "parcel-element-react",
+  "version": "0.0.1",
+  "description": "Parcel",
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "^3.22.2",
+    "babel-core": "^6.26.3",
+    "element-react": "^1.4.34",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "less": "^3.10.3",
+    "parcel-bundler": "^1.12.3",
+    "react-hot-loader": "^4.12.12"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpan-wework/parcel-element-react.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpan-wework/parcel-element-react/issues"
+  },
+  "homepage": "https://github.com/mpan-wework/parcel-element-react#readme"
+}
